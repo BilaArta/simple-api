@@ -1,0 +1,15 @@
+{
+    "users" : [{
+        "firstName" : "Jhonny",
+        "lastName" : "Doeloe",
+        "age" : 22
+    },{
+        "firstName" : "Jhonson",
+        "lastName" : "Doer",
+        "age" : 20        
+    },{
+        "firstName" : "Jhon",
+        "lastName" : "Doe",
+        "age" : 28        
+    }]
+}
